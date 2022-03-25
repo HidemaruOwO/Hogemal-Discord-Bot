@@ -1,0 +1,4 @@
+/node_modules/
+/env/
+/data/score.json
+/data/blacklist.json
